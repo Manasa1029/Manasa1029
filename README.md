@@ -25,12 +25,12 @@
 ## 🧠 About Me
 
 <div align="center">
-
+'''
 name: Your Name
 role: Software Engineer · cloud Engineering· Full Stack Developer
 focus: Building performant, scalable, production-grade systems
 mindset: Product-driven engineering with deep technical craftsmanship
-
+'''
 </div>
 
 I'm a software engineer with a strong foundation in **full-stack development** and a specialized focus on **cloud Engineering** — from data pipelines to model deployment. I care about writing clean, maintainable code and designing architectures that scale gracefully under real-world load. My approach blends engineering rigor with product thinking: every system I build is designed around measurable user and business impact.
