@@ -24,13 +24,13 @@
 
 ## 🧠 About Me
 
-<div align="center">
-'''
-name: Your Name
-role: Software Engineer · cloud Engineering· Full Stack Developer
+## 🧠 About Me
+<div>
+```yaml
+name: Manasa H M
+role: Software Engineer · Cloud Engineering · Full Stack Developer
 focus: Building performant, scalable, production-grade systems
 mindset: Product-driven engineering with deep technical craftsmanship
-'''
 </div>
 
 I'm a software engineer with a strong foundation in **full-stack development** and a specialized focus on **cloud Engineering** — from data pipelines to model deployment. I care about writing clean, maintainable code and designing architectures that scale gracefully under real-world load. My approach blends engineering rigor with product thinking: every system I build is designed around measurable user and business impact.
@@ -127,27 +127,31 @@ Designed robust data pre-processing and feature engineering workflows to train p
 
 ## 💼 Experience
 
-**Python & Web Development Intern** · PySpider, Mysuru[cite: 1]
-`4 Months`[cite: 1]
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&vCenter=true&width=400&lines=💼+Professional+Experience;🚀+Internships+%26+Work" alt="Typing SVG" />
+</div>
 
-Contributed to full-stack web development and architecture deployment[cite: 1].
+**Python & Web Development Intern** · PySpider, Mysuru
+`4 Months`
 
-- Built robust full-stack applications utilizing Python, Django, and SQL[cite: 1]
-- Configured and deployed web architectures for seamless operations[cite: 1]
+Contributed to full-stack web development and architecture deployment.
 
-`Python` `Django` `SQL` `Web Architecture`[cite: 1]
+- 🔹 Built robust full-stack applications utilizing Python, Django, and SQL
+- 🔹 Configured and deployed web architectures for seamless operations
+
+`Python` `Django` `SQL` `Web Architecture`
 
 <br/>
 
-**Machine Learning Intern** · Beta Technology[cite: 1]
-`1 Month`[cite: 1]
+**Machine Learning Intern** · Beta Technology
+`1 Month`
 
-Focused on data science workflows and developing predictive models[cite: 1].
+Focused on data science workflows and developing predictive models.
 
-- Developed machine learning models tailored for predictive problem-solving[cite: 1]
-- Handled complex data pre-processing and performed feature engineering[cite: 1]
+- 🔹 Developed machine learning models tailored for predictive problem-solving
+- 🔹 Handled complex data pre-processing and performed feature engineering
 
-`Python` `Machine Learning` `Data Pre-processing` `Feature Engineering`[cite: 1]
+`Python` `Machine Learning` `Data Pre-processing` `Feature Engineering`
 
 ---
 ## 📊 GitHub Analytics
