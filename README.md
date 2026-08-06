@@ -62,13 +62,6 @@ I'm a software engineer with a strong foundation in **full-stack development** a
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&vCenter=true&width=600&lines=🚀+Featured+Projects;💻+Code+%26+Craftsmanship" alt="Typing SVG" />
-
-</div>
-<br/>
-
 <details>
 <summary><b>🖥️ Project One — Human-Computer Interaction Using Eye Gaze</b></summary>
 <br/>
@@ -130,13 +123,6 @@ Designed robust data pre-processing and feature engineering workflows to train p
 
 ## 💼 Experience
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&vCenter=true&width=400&lines=💼+Professional+Experience;🚀+Internships+%26+Work" alt="Typing SVG" />
-
-</div>
-<br/>
-
 **Python & Web Development Intern** · PySpider, Mysuru
 `4 Months`
 
@@ -192,16 +178,11 @@ Focused on data science workflows and developing predictive models.
 
 </div>
 
+> This image only renders once the [contribution-snake GitHub Action](https://github.com/Platane/snk) is set up on your `Manasa1029/Manasa1029` repo to generate the `output` branch. Until then, remove this section or leave it as-is — it'll self-fix once the workflow runs.
+
 ---
 
 ## 🎯 Current Focus
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&vCenter=true&width=600&lines=🎯+Current+Focus;🌱+Always+Learning+%26+Building" alt="Typing SVG" />
-
-</div>
-<br/>
 
 ### 🌱 Learning
 ➡️ Advanced Data Structures & Algorithms (DSA) in C
