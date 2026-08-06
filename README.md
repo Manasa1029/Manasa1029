@@ -7,7 +7,7 @@
 <br/>
 
 ![MCA](https://img.shields.io/badge/MCA-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/based%20in-Your%20City-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/based%20in-Banaglore%20City-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
